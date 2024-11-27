@@ -35,7 +35,8 @@ Follow these steps to set up the project locally:
    cd ../frontend
    npm install
 
-Running the Project
+
+## Running the Project
 After installing the dependencies, you can start both the backend and frontend.
 
 1. **Running the Backend**
@@ -53,11 +54,12 @@ After installing the dependencies, you can start both the backend and frontend.
    The frontend will be running at http://localhost:3000 (or the port specified in your frontend configuration).
 
 
-**Features**
-1. Role Management: Admins can create, edit, and delete roles.
-2. Permission Management: Admins can assign and revoke permissions to roles.
-3. User Management: Users can be assigned specific roles, which determine their access to resources.
-4. Authentication: Secure login and session management.
+## Features
+
+1. **Role Management**: Admins can create, edit, and delete roles.
+2. **Permission Management**: Admins can assign and revoke permissions to roles.
+3. **User Management**: Users can be assigned specific roles, which determine their access to resources.
+4. **Authentication**: Secure login and session management.
 
 
 
