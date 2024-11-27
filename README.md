@@ -20,7 +20,7 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository**:
 
-   git clone https://github.com/your-username/rbac-system.git
+   git clone https://github.com/Vanshika-Narula/Rbac system.git
    cd rbac-system
 
 2. **Install backend dependencies**:
